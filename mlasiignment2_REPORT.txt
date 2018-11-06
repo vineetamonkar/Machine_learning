@@ -1,0 +1,31 @@
+Report:
+
+Following is the count and accuracy for naive bayes method:
+
+Without stop words count of ham while testing spam:  0
+
+Without stop words count of spam while testing spam:  130
+
+Accuracy on ham set without stop words:  100.0%
+
+With stop words count of ham while testing spam:  5
+
+With stop words count of spam while testing spam:  125
+
+Accuracy on ham set with stop words:  96.15384615384616%
+
+Without stop words count of ham while testing ham:  348
+
+Without stop words count of spam while testing ham:  0
+
+Accuracy on ham set without stop words:  100.0%
+
+With stop words count of ham while testing ham:  348
+
+With stop words count of spam while testing ham:  0
+
+Accuracy on ham set with stop words:  100.0%
+
+// have removed the special characters while training the naive bayes model from both the ham and spam folders.
+
+Thank you
