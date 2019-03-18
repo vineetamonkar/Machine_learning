@@ -38,7 +38,9 @@ type the following line to and press enter to execute the code:
 
 py mlassignment2.py
 
-Output details are mentioned in the Report.
+Output details are mentioned in the Report : https://github.com/vineetamonkar/Spam-filtering-with-Naive-bayes/blob/master/mlasiignment2_REPORT.txt.
+
+final code :https://github.com/vineetamonkar/Spam-filtering-with-Naive-bayes/blob/master/mlassignment2.py 
 
 Processing time on system with less processing speed could take upto 1 minute. 
 
